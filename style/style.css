@@ -1,0 +1,41 @@
+*{
+}
+div	{
+	  border: 3px solid pink;
+	  background-color: blue;
+	  margin: 5px;
+}
+#wrapper{
+	background-color: yellow;
+}
+.block345{
+	background-color: grey;
+	padding: 5px;
+}
+
+img	{
+	height: 150px;
+	width: 150px;
+}
+.block2 {
+
+clear: both;
+}
+#block3 {
+	width: 20%;
+float: left;
+}
+#block4 {
+width: 60%;
+float: left;
+
+}
+
+#block5 {
+width: 13%;
+float: left;
+}
+#block6 {
+
+clear: both;
+}
